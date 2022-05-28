@@ -1,0 +1,451 @@
+size,total_sqft,bathrooms,balcony,site_location,price
+2,350,1,1,Wakadewadi,13.5
+1,395,1,1,Kalyani Nagar,10.25
+1,400,1,1,Model colony,12
+1,400,1,1,Pune Railway Station,14
+1,400,1,1,Satara Road,11.5
+1,400,1,1,Senapati Bapat Road,11
+1,418,1,1,Kondhwa Khurd,12
+1,420,1,1,Fergusson College Road,17
+1,450,1,0,Gultekdi,16
+1,450,1,1,Kasba Peth,12.5
+1,450,1,1,Pune Railway Station,18
+1,485,1,1,Ghorpade Peth,19.5
+1,488,1,1,Hadapsar,20
+1,500,1,0,Shukrawar Peth,20
+1,520,1,1,Paud Road,15
+1,527,1,0,Model colony,26
+1,567,1,1,Kothrud,25
+1,580,1,1,Kothrud,45
+1,580,1,1,Nana Peth,27
+1,595,1,1,Nana Peth,42
+1,596,1,1,Market yard,42
+1,600,1,1,Camp,35
+1,600,1,1,Chandan Nagar,30
+1,600,1,0,Dhayari Phata,20
+1,600,1,1,Pashan,19.5
+1,602,1,1,Pashan,33
+1,630,1,1,Dhayari Phata,60
+1,630,1,1,Navi Peth,34.65
+1,635,1,0,Kalyani Nagar,26
+1,635,1,1,Parvati Darshan,28
+1,640,1,0,Sinhagad Road,55
+1,640,1,1,Viman Nagar,20.5
+1,645,1,1,Aundh Road,41
+1,646,1,0,Narayan Peth,25.84
+1,650,1,2,Kothrud,33
+1,662,1,0,Manik Bagh,45
+1,664,1,1,Vishrant Wadi,34
+1,675,1,1,Koregaon Park,27
+1,675,1,1,Wanowrie,45
+1,693,1,1,Mundhawa,34.3
+1,710,1,1,Ghorpadi,27
+1,710,2,2,Kalyani Nagar,40
+1,810,1,0,Tilak Road,21
+1,834,1,1,Ganeshkhind,60
+1,840,2,2,Gokhale Nagar,50
+1,850,1,2,Aundh Road,57
+1,850,1,2,Kondhwa Khurd,60
+1,905,1,1,Aundh Road,52
+1,923,1,1,Hadapsar,45.69
+2,435,1,1,Salunke Vihar,19.5
+2,550,1,1,Chandan Nagar,27
+2,905,1,1,Uruli Devachi,52
+2,296,1,0,Tilak Road,22.89
+2,440,1,0,Aundh,28
+2,445,1,0,Camp,28
+2,510,1,1,Dhankawadi,25.25
+2,510,1,0,Fergusson College Road,25.25
+2,527,1,0,Hadapsar,35
+4,800,1,0,Manik Bagh,170
+4,1800,2,0,Hadapsar,300
+4,900,2,0,Baner road,65
+4,1006,2,1,Satara Road,57
+4,1050,2,1,Kasba Peth,110
+4,1200,2,0,Alandi Road,75
+4,1200,2,1,Jangali Maharaj Road,66
+4,1200,2,0,Jangali Maharaj Road,73
+4,1200,2,0,Kondhwa,63
+4,1200,2,1,Pirangut,130
+4,1240,2,1,Ambegaon Budruk,60
+4,1350,1,0,Kondhwa Budruk,100
+4,2400,3,1,Kharadi,150
+4,2400,2,1,Sadashiv Peth,160
+4,2400,2,1,Vadgaon Budruk,95
+5,545,1,1,Ghorpade Peth,28
+5,545,1,1,Karve Road,29
+5,550,1,1,Kothrud,15
+5,550,1,1,Vadgaon Budruk,16
+5,560,2,1,Ambegaon Budruk,22
+5,560,2,1,Mangalwar peth,16.6
+5,565,2,1,Jangali Maharaj Road,15
+5,596,2,1,Balaji Nagar,22
+5,600,1,0,Gultekdi,27
+5,600,1,1,Yerawada,22
+5,620,2,1,Sadashiv Peth,22
+5,650,1,1,Balaji Nagar,17
+5,650,2,0,Dehu Road,42
+5,656,2,1,Senapati Bapat Road,25
+5,700,1,1,Hingne Khurd,32
+5,735,2,1,Sasson Road,35
+5,740,1,1,Shivaji Nagar,22
+5,750,2,1,Aundh Road,36
+5,750,2,0,Dhole Patil Road,40
+5,750,2,0,Kharadi,20
+5,750,2,1,Shukrawar Peth,19.5
+5,770,1,1,Shaniwar Peth,35
+5,770,1,1,Somwar Peth,36
+5,780,2,1,Bund Garden Road,35
+5,787,2,1,Nagar Road,31
+5,799,2,1,Shukrawar Peth,35
+5,799,2,1,Wanowrie,38
+5,800,2,2,Aundh Road,32
+5,800,2,1,Camp,33
+5,800,2,1,Jangali Maharaj Road,32
+5,800,2,2,Katraj,28
+5,800,2,1,Nagar Road,40
+5,812,2,1,Sahakar Nagar,38.25
+5,820,2,0,Sahakar Nagar,39
+5,820,2,1,Wagholi,45
+5,825,2,1,Kasba Peth,32
+5,830,2,2,Ganeshkhind,40
+5,835,2,0,Pirangut,37
+5,840,2,2,Kothrud,27
+5,845,2,1,Kondhwa Budruk,33
+5,845,2,0,Koregaon Park,34
+5,845,2,1,Vadgaon Budruk,30
+5,850,2,2,Gultekdi,45
+5,850,1,1,Karve Nagar,18.5
+5,850,2,2,Mahatma Gandhi Road,35
+5,850,2,1,Mahatma Gandhi Road,45
+5,850,2,0,Manik Bagh,34
+5,850,2,2,Paud Road,37.93
+5,850,2,1,Salunke Vihar,33
+5,1125,2,1,Sinhagad Road,63
+5,1125,2,1,Viman Nagar,32.63
+5,1126,2,1,Baner road,69
+5,1126,2,2,Dapodi,39
+5,1130,2,2,Aundh Road,68
+5,1130,2,1,Shivaji Nagar,75
+5,1130,2,2,Yerawada,55
+5,1133,2,1,Kothrud,38.37
+5,1133,2,1,Vishrant Wadi,55
+5,1135,2,2,Hadapsar Industrial Estate,32.91
+5,1140,2,2,Baner road,58
+5,1140,1,1,Bund Garden Road,185
+5,1140,2,1,Camp,32.92
+5,1140,2,2,Ghorpadi,65
+5,1140,2,1,Kondhwa Budruk,33.06
+5,1140,2,1,Nana Peth,75.2
+5,1140,2,2,Narayan Peth,38.65
+5,1140,2,1,Satara Road,33.06
+5,1140,2,2,Wagholi,62
+5,1141,2,1,Pirangut,60
+5,1142,2,0,Mahatma Gandhi Road,35
+5,1142,2,2,Tilak Road,70
+5,1145,2,1,Ghorpadi,46.5
+5,1145,2,2,Nana Peth,46
+5,1147,2,1,Parvati Darshan,54
+5,1150,2,0,Bhavani Peth,44
+5,1150,2,2,Bhavani Peth,35
+5,1150,2,2,Bibvewadi,45
+5,1150,3,3,Bund Garden Road,52.5
+5,1150,2,0,Hadapsar Industrial Estate,55
+5,1150,2,3,Hadapsar Industrial Estate,48
+5,1150,2,2,Mundhawa,80
+5,1150,2,1,Pune Railway Station,53.11
+5,1150,2,0,Rasta Peth,70
+5,1150,2,1,Senapati Bapat Road,42
+5,1150,2,1,Vishrant Wadi,49
+5,1153,2,2,Somwar Peth,45
+5,1154,2,1,Lulla Nagar,57
+5,1155,2,1,Bund Garden Road,60
+5,1156,2,2,Balaji Nagar,49.5
+5,1156,2,2,Raviwar Peth,52
+5,1160,2,1,Kondhwa Khurd,33.51
+5,1160,2,1,Mundhawa,33.51
+5,1160,2,2,Narayangaon,45
+5,1160,2,2,Navi Peth,44
+5,1160,2,1,Wadgaon Sheri,33.5
+5,1163,2,1,Ghorpadi,65
+5,1164,2,2,Dehu Road,75
+5,1165,2,2,Dhayari Phata,75
+5,1165,2,1,Ghorpade Peth,30.29
+5,1165,2,1,Khadki,33.64
+5,1165,1,0,Somwar Peth,42.09
+5,1166,2,2,Somwar Peth,55
+5,1169,2,2,Dhole Patil Road,75
+5,1170,2,2,Aundh,57
+5,1170,2,3,Bhandarkar Road,50
+5,1170,2,3,Mangalwar peth,53
+5,1170,2,2,Raviwar Peth,86
+5,1170,2,2,Yerawada,86
+5,1172,2,1,Sadashiv Peth,75
+5,1175,2,0,Narayangaon,54.05
+5,1175,2,2,Somwar Peth,70.5
+5,1179,2,1,Fergusson College Road,75
+5,1180,2,2,Aundh,75
+5,1180,2,2,Aundh,60
+5,1180,2,2,Ganesh Peth,50
+5,1180,2,2,Market yard,100
+5,1184,2,1,Dhayari Phata,55
+5,1185,2,1,Kothrud,42.66
+5,1185,2,2,Narayangaon,65
+5,1186,2,3,Mahatma Gandhi Road,72
+5,1186,2,3,Pune Railway Station,65
+5,1187,2,2,Kothrud,42
+6,1939,3,0,Wagholi,98
+6,1962,3,2,Karve Road,175
+6,2100,3,2,Wakadewadi,150
+6,2273,4,2,Camp,192
+6,2300,3,2,Bibvewadi,142
+6,2497,3,2,Dhankawadi,140
+6,2500,3,2,Market yard,100
+6,2500,3,2,Narayangaon,180
+6,2500,3,2,Shukrawar Peth,135
+6,2556,3,2,Nagar Road,169
+6,3150,3,1,Bhandarkar Road,290
+6,3200,3,0,Hingne Khurd,260
+6,3204,4,3,Kondhwa Khurd,395
+6,3339,3,0,Yerawada,250
+6,3425,3,1,Sinhagad Road,320
+6,3500,4,2,Fergusson College Road,185
+7,715,2,1,Aundh,29
+7,840,2,2,Paud Road,35
+7,873,2,1,Nana Peth,40
+7,875,2,2,Satara Road,40
+7,880,2,1,Bopodi,18
+7,909,2,1,Mangalwar peth,43
+7,980,2,2,Kalyani Nagar,60
+7,1010,2,1,Prabhat Road,45
+7,1025,2,1,Gultekdi,48
+7,1025,2,0,Koregaon Park,37
+7,1050,2,1,Gokhale Nagar,57
+7,1050,2,1,Katraj,59
+7,1050,2,1,Paud Road,39
+7,1060,2,2,Dehu Road,58.3
+7,1075,2,1,Hadapsar,37
+7,1075,2,1,Kondhwa,36
+7,1075,2,1,Kondhwa Khurd,57
+7,1075,2,1,Salunke Vihar,41.49
+7,1080,2,1,Law College Road,45
+7,1100,2,3,Camp,85
+7,1100,2,1,Nagar Road,78
+7,1100,2,2,Satara Road,52
+7,1150,3,3,Vadgaon Budruk,46
+7,1155,2,0,Gultekdi,60
+7,1170,3,2,Katraj,80
+7,1180,2,1,Hadapsar Industrial Estate,45
+7,1190,3,1,Khadaki,55
+7,1200,2,0,Hadapsar Industrial Estate,130
+7,1200,3,2,Jangali Maharaj Road,65
+7,1208,3,1,Katraj,45
+7,1208.51,3,2,Fergusson College Road,42
+7,1209,2,3,Yerawada,65
+7,1220,3,1,Bund Garden Road,35.25
+7,1220,2,2,Dhankawadi,49
+7,1220,3,1,Laxmi Road,35.23
+7,1220,3,1,Mundhawa,35.23
+7,1220,3,1,Senapati Bapat Road,36.6
+7,1222,3,2,Aundh Road,95
+7,1225,3,3,Khadki,60
+7,1230,2,2,Mahatma Gandhi Road,52
+7,1231,3,2,Baner,58
+7,1240,2,1,Market yard,62
+7,1240,3,2,Padmavati,41
+7,1241,2,1,Dehu Road,65
+7,1241,2,1,Hingne Khurd,61
+7,1250,3,2,Fergusson College Road,139
+7,1250,3,2,Ganeshkhind,58
+7,1250,2,2,Ghorpadi,47
+7,1250,3,3,Gokhale Nagar,62.6
+7,1710,3,0,Salunke Vihar,60
+7,1712,3,3,Dhole Patil Road,82
+7,1717,3,3,Khadaki,99
+7,1719,3,2,Baner,116
+7,1720,3,3,Sinhagad Road,150
+7,1725,2,1,Anandnagar,165
+7,1725,2,2,Ganeshkhind,100
+7,1725,3,2,Guruwar peth,85
+7,1725,3,3,Rasta Peth,85
+7,1726,3,3,Ganesh Peth,145
+7,1735,3,2,Rasta Peth,70
+7,1740,3,3,Aundh Road,80
+7,1740,3,2,Hadapsar,55
+7,1740,3,3,Law College Road,85
+7,1745,3,2,Balaji Nagar,130
+7,1745,3,3,Salunke Vihar,98
+7,1750,3,1,Fatima Nagar,180
+7,1750,3,3,Paud Road,149
+7,1750,3,3,Raviwar Peth,172
+7,1750,3,3,Senapati Bapat Road,99
+7,1750,3,2,Swargate,100
+7,1756,3,2,Bibvewadi,110
+7,1756,3,3,Law College Road,100
+7,1757,3,3,Senapati Bapat Road,98
+7,1758,3,2,Erandwane,95
+7,1760,3,2,Guruwar peth,88
+7,1760,3,3,Karve Nagar,90
+7,1760,2,0,Warje,115
+7,1770,3,2,Anandnagar,90
+7,1770,3,3,Padmavati,100
+7,1770,4,1,Satara Road,68
+7,1783,3,2,Mukund Nagar,125
+7,1785,3,2,Dhole Patil Road,120
+7,1785,3,2,Paud Road,130
+7,1785,3,0,Rasta Peth,165
+7,1788,3,2,Narayangaon,90
+7,1789,3,3,Sinhagad Road,75
+7,1790,3,0,Kondhwa Khurd,97
+7,1790,3,3,Nana Peth,100
+7,1799,3,3,Sasson Road,90
+7,1800,4,1,Alandi Road,125
+7,1800,3,2,Dhole Patil Road,90
+7,1800,3,1,Hadapsar,220
+7,1800,3,2,Koregaon Park,125
+7,1800,4,3,Pashan,115
+7,1805,3,3,Mundhawa,134
+7,1806,3,3,Ambegaon Budruk,85
+7,1815,3,2,Ghorpadi,82
+7,1820,3,2,Viman Nagar,95.5
+7,1831,3,1,Law College Road,110
+7,1835,3,2,Fergusson College Road,160
+7,1843,3,2,Dehu Road,90
+7,1843,3,2,Hadapsar Industrial Estate,85
+7,1847,3,3,Wagholi,92
+7,1850,3,1,Budhwar Peth,98
+7,1850,3,3,Dehu Road,140
+7,1850,3,3,Dhankawadi,110
+7,1850,3,1,Market yard,150
+7,1857,4,3,Warje,155
+7,1864,3,2,Navi Peth,120
+7,1865,3,3,Swargate,145
+7,1867,3,1,Law College Road,160
+7,1870,3,3,Hingne Khurd,110
+7,1874,4,1,Uruli Devachi,130
+7,1875,3,1,Baner,55
+7,1875,2,3,Gultekdi,235
+7,1875,2,2,Wanowrie,110
+7,1890,4,2,Gokhale Nagar,85
+7,1890,2,2,Paud Road,85
+7,1900,4,2,Sasson Road,145
+7,1903,2,1,Shivaji Nagar,293
+7,1907,2,1,Alandi Road,200
+7,1910,3,2,Ganesh Peth,142
+8,1600,4,0,Sadashiv Peth,52.8
+8,1632,3,0,Aundh,140
+8,1632,3,0,Mangalwar peth,145
+8,1680,3,0,Wadgaon Sheri,135
+8,1880,4,0,Narayan Peth,154
+8,1900,3,1,Padmavati,97
+8,2000,4,0,Pirangut,100
+8,2065,4,0,Gultekdi,248
+8,2429,3,1,Nana Peth,210
+8,2500,4,0,Dhankawadi,100
+8,2500,4,1,Gultekdi,420
+8,2540,4,0,Law College Road,160
+8,2600,3,1,Parvati Darshan,95
+8,2704,5,0,Kondhwa,105
+8,2750,5,1,Dehu Road,240
+8,2750,4,0,Karve Road,220
+8,2792,4,1,Ganesh Peth,220
+8,2950,4,3,Somwar Peth,253
+8,3042,4,0,Bhavani Peth,131
+8,3092,4,3,Sahakar Nagar,230
+8,3100,5,0,Budhwar Peth,425
+8,3200,4,0,Lulla Nagar,270
+8,3250,4,2,Shaniwar Peth,136
+8,3260,4,1,Swargate,240
+8,3309,4,3,Rasta Peth,325
+8,3450,4,3,Wakadewadi,294
+8,3453,4,2,Viman Nagar,247
+8,3500,6,2,Ghorpade Peth,225
+8,3532,3,3,Mukund Nagar,170
+8,3565,4,0,Hadapsar,218
+8,3589,5,0,Nagar Road,400
+8,3600,4,0,Balaji Nagar,260
+8,3600,3,2,Shukrawar Peth,410
+8,3675,4,3,Shivaji Nagar,176
+8,3750,6,2,Market yard,375
+8,3800,4,2,Hadapsar Industrial Estate,600
+8,3800,3,3,Raviwar Peth,325
+8,3900,5,1,Guruwar peth,550
+8,3900,4,2,Koregaon Park,175
+8,3913,5,0,Wadgaon Sheri,176
+8,3978,4,3,Fergusson College Road,428
+8,4000,4,3,Karve Nagar,380
+8,4144,4,3,Vishrant Wadi,315
+8,4800,4,3,Gultekdi,420
+8,4800,5,3,Kalyani Nagar,629
+8,4818,4,3,Tilak Road,390
+8,5000,5,2,Deccan Gymkhana,395
+8,5000,5,2,Warje,550
+8,6200,4,2,Chandan Nagar,744
+9,1150,4,2,Alandi Road,260
+9,1810,3,2,Kothrud,57
+9,1900,3,1,Wadgaon Sheri,90
+9,1917,4,2,Anandnagar,130
+9,1948,4,2,Dehu Road,129
+9,2050,3,1,Dhayari Phata,100
+9,2150,4,1,Wakadewadi,100
+9,2400,4,3,Narayangaon,135
+9,2400,3,3,Wagholi,140
+9,2439,5,2,Mundhawa,170
+9,2500,5,2,Navi Peth,325
+9,2550,4,2,Hadapsar Industrial Estate,149
+9,2569,4,1,Baner,175
+9,2689,6,2,Laxmi Road,220
+9,2695,4,3,Ghorpadi,188
+9,2920,4,3,Koregaon Park,536
+9,3000,3,2,Khadki,150
+9,3000,5,3,Pashan,150
+9,3080,2,1,Manik Bagh,285
+9,3100,4,2,Budhwar Peth,310
+9,3198,4,3,Nagar Road,200
+9,3205,5,1,Pirangut,380
+9,3300,4,2,Balaji Nagar,329
+9,3362,5,2,Baner road,249
+9,3420,4,2,Bhavani Peth,225
+9,3435,2,1,Fatima Nagar,341
+9,3463,6,0,Baner,310
+9,3500,2,1,Viman Nagar,350
+9,3530,4,2,Mukund Nagar,290
+9,3800,5,3,Pashan,300
+9,3855,4,3,Ghorpadi,220
+9,3895,2,1,Bibvewadi,451
+9,3900,4,2,Bhavani Peth,410
+9,3951,4,2,Erandwane,220
+9,4000,4,3,Mangalwar peth,220
+9,4000,4,2,Prabhat Road,630
+9,4041,4,2,Mukund Nagar,345
+9,4640,4,2,Swargate,600
+9,5000,4,3,Mukund Nagar,290
+9,1451.5,4,1,Navi Peth,121
+9,1548.3,4,1,Kondhwa Budruk,129
+9,1554.3,4,1,Kondhwa,131
+9,1664,4,3,Dhayari Phata,65
+9,1708,3,0,Jangali Maharaj Road,64.05
+9,1800,3,2,Shaniwar Peth,82
+9,1800,3,1,Yerawada,90
+9,1863,3,2,Budhwar Peth,104
+9,4856,5,3,Shukrawar Peth,410
+9,5150,4,3,Wanowrie,559
+9,5230,6,1,Kondhwa,465
+9,5924,4,3,Laxmi Road,625
+9,6652,6,1,Dapodi,510
+9,6652,6,1,Karve Road,660
+9,36000,4,2,Wakadewadi,450
+10,3200,5,3,Sinhagad Road,140
+10,3356,5,2,Yerawada,105
+10,3453,4,0,Pashan,231
+10,7200,5,2,Gokhale Nagar,900
+11,3300,3,1,Model colony,255
+11,2849,5,0,Senapati Bapat Road,300
+11,3050,5,1,Kondhwa Budruk,213
+11,4500,7,3,Bibvewadi,337
+11,4500,7,3,Kondhwa,294
+11,5384,5,3,Senapati Bapat Road,420
+11,5515,6,2,Karve Nagar,425
+11,8321,5,3,Bopodi,2700
+13,3600,6,2,Kharadi,120
+13,11338,9,1,Ghorpade Peth,1000
